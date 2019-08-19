@@ -1,10 +1,10 @@
 import smtplib
 
 def sendemail():
-    GMAIL_USERNAME = "priyawagh5151@gmail.com"
+    GMAIL_USERNAME = "sdgfsegwe@email.com"  # your mail
     GMAIL_PASSWORD = "xvsvsvsrrgr00@" # your password goes here
 
-    recipient = "saish3147@gmail.com"
+    recipient = "saish3147@gmail.com"     #client mail
     body_of_email = "Hi i liked your profile and interseted to catch up with you "
     email_subject = "It's a match from tinder"
 
